@@ -7,10 +7,10 @@ Full Stack Developer · React · Next.js · Node.js · TypeScript
 
 
 
-  
-  
-  
-  
+  🌐 Portfolio  | 
+  💼 LinkedIn  | 
+  📧 Email  | 
+  📦 npm
 
 
 
@@ -50,19 +50,6 @@ Git · Docker · Jest · Zod · Stripe · Swagger
 | Postinger — social media platform with posts, follows & JWT auth | [Live](https://postinger-social.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/Postinger-app) |
 | Blogin — full-stack blog platform with real-time sync | [Live](https://blogin-blog-app.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/Blogin-app) |
 | express-ts-new-app — CLI tool to scaffold TypeScript Express projects | [npm](https://www.npmjs.com/package/express-ts-new-app) | [Code](https://github.com/mohammed-abdelhafiz/express-ts-new-app) |
-
----
-
-### Stats
-
-
-
-
-  
-  
-
-
-
 
 ---
 
