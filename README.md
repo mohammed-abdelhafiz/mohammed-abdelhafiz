@@ -1,19 +1,8 @@
-Mohamed Abdelhafiz
+# Mohamed Abdelhafiz
 
+### Full Stack Developer · React · Next.js · Node.js · TypeScript
 
-Full Stack Developer · React · Next.js · Node.js · TypeScript
-
-
-
-
-
-  🌐 Portfolio  | 
-  💼 LinkedIn  | 
-  📧 Email  | 
-  📦 npm
-
-
-
+[🌐 Portfolio](https://mohamed-abdelhafiz.vercel.app) | [💼 LinkedIn](https://linkedin.com/in/mohamed-abdelhafiz-dev) | [📧 Email](mailto:mohamed.abdelhafiz.dev@gmail.com) | [📦 npm](https://www.npmjs.com/package/express-ts-new-app)
 
 ---
 
@@ -53,6 +42,4 @@ Git · Docker · Jest · Zod · Stripe · Swagger
 
 ---
 
-
-
-Cairo, Egypt · Available for remote work · Get in touch
+Cairo, Egypt · Available for remote work · [Get in touch](mailto:mohamed.abdelhafiz.dev@gmail.com)
