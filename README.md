@@ -7,10 +7,10 @@ Full Stack Developer · React · Next.js · Node.js · TypeScript
 
 
 
-  Portfolio ·
-  LinkedIn ·
-  Email ·
-  npm
+  
+  
+  
+  
 
 
 
@@ -44,12 +44,12 @@ Git · Docker · Jest · Zod · Stripe · Swagger
 
 ### Featured projects
 
-| Project | Description | Stack |
+| Project | Demo | Repo |
 |---|---|---|
-| [MoCommerce](https://mo-commerce-app.vercel.app) | Full e-commerce platform with admin dashboard, Stripe payments, and real-time analytics | Next.js 16 · React 19 · Node.js · TypeScript |
-| [Postinger](https://github.com/mohammed-abdelhafiz/Postinger-app) | Social media platform — posts, follows, likes, JWT auth | React · Node.js · MongoDB · TypeScript |
-| [Blogin](https://github.com/mohammed-abdelhafiz/Blogin-app) | Full-stack blog platform with real-time sync | Next.js · Convex · TypeScript |
-| [express-ts-new-app](https://www.npmjs.com/package/express-ts-new-app) | Published CLI tool — scaffold a TypeScript Express project in 30 seconds | Node.js · TypeScript |
+| MoCommerce — e-commerce with admin dashboard, Stripe & analytics | [Live](https://mo-commerce-app.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/MoCommerce-app) |
+| Postinger — social media platform with posts, follows & JWT auth | [Live](https://postinger-social.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/Postinger-app) |
+| Blogin — full-stack blog platform with real-time sync | [Live](https://blogin-blog-app.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/Blogin-app) |
+| express-ts-new-app — CLI tool to scaffold TypeScript Express projects | [npm](https://www.npmjs.com/package/express-ts-new-app) | [Code](https://github.com/mohammed-abdelhafiz/express-ts-new-app) |
 
 ---
 
