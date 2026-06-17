@@ -12,7 +12,7 @@ Full Stack Developer based in Cairo, Egypt.
 I build production-ready web apps with React, Next.js, Node.js, and MongoDB.
 
 Completed a 180-hour MEAN Stack program at NTI (Ministry of Communications) — 85% score.
-ٌRecently finishing my CS degree at Benha University (GPA 3.4, June 2026).
+Recently finishing my CS degree at Benha University (GPA 3.4, June 2026).
 
 Open to remote or Cairo-based junior roles.
 
@@ -21,7 +21,7 @@ Open to remote or Cairo-based junior roles.
 ### Tech stack
 
 **Frontend**
-React.js · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · TanStack Query · shadcn/ui
+React.js · Next.js · TypeScript · Tailwind CSS · Redux Toolkit · TanStack Query · shadcn/ui · Motion (prev Framer Motion)
 
 **Backend**
 Node.js · Express.js · MongoDB · PostgreSQL · REST APIs · JWT · Redis
