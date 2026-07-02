@@ -35,6 +35,7 @@ Git · Docker · Jest · Zod · Stripe · Swagger
 
 | Project | Demo | Repo |
 |---|---|---|
+| CollabSpace — Frontend of my graduation project which is a Browser-Based 3D Virtual Collaboration Platform. | [Live](https://collabspace3d.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/CollabSpace) |
 | MoCommerce — e-commerce with admin dashboard, Stripe & analytics | [Live](https://mo-commerce-app.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/MoCommerce-app) |
 | Postinger — social media platform with posts, follows & JWT auth | [Live](https://postinger-social.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/Postinger-app) |
 | Blogin — full-stack blog platform with real-time sync | [Live](https://blogin-blog-app.vercel.app) | [Code](https://github.com/mohammed-abdelhafiz/Blogin-app) |
